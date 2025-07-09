@@ -1,0 +1,18 @@
+{
+  "name": "jp.co.hololab.questcameratools.apriltag",
+  "version": "1.0.0",
+  "displayName": "Quest Camera Tools - AprilTag",
+  "description": "AprilTag tracking for Meta Quest using passthrough cameras",
+  "keywords": [
+    "meta",
+    "quest",
+    "apriltag",
+    "tracking",
+    "camera",
+    "passthrough"
+  ],
+  "dependencies": {
+    "jp.co.hololab.questcameratools.core": "1.0.0",
+    "jp.keijiro.apriltag": "1.0.2"
+  }
+}
