@@ -1,0 +1,5 @@
+/Users/dannydasilva/Xr Demo/Main-Demo/.utmp/RelWithDebInfo/1usu4p3h/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/dannydasilva/Xr Demo/Main-Demo/.utmp/RelWithDebInfo/1usu4p3h/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/dannydasilva/Xr Demo/Main-Demo/.utmp/RelWithDebInfo/1usu4p3h/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/dannydasilva/Xr Demo/Main-Demo/.utmp/RelWithDebInfo/1usu4p3h/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/dannydasilva/Xr Demo/Main-Demo/.utmp/RelWithDebInfo/1usu4p3h/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
