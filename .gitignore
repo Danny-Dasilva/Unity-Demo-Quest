@@ -96,3 +96,11 @@ Thumbs.db
 # Rider
 .idea/
 *.sln.iml
+
+# Large files and build artifacts
+*.symbols.zip
+*.zip
+*.tar.gz
+*.7z
+*.rar
+test-*.symbols.zip
