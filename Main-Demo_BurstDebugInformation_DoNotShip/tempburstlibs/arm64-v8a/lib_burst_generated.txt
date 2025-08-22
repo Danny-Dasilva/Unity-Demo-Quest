@@ -1,4 +1,4 @@
-Library: /Users/dannydasilva/Xr Demo/Main-Demo/Temp/BurstOutput/tempburstlibs/arm64-v8a/lib_burst_generated
+Library: C:\Users\helio\Documents\Unity-Demo-Quest\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
 --platform=Android
 --backend=burst-llvm-18
 --target=ARMV8A_AARCH64
@@ -7,11 +7,11 @@ Library: /Users/dannydasilva/Xr Demo/Main-Demo/Temp/BurstOutput/tempburstlibs/ar
 --dump=Function
 --float-precision=Standard
 --target-framework=NetFramework
---generate-link-xml=Temp/burst.link.xml
---temp-folder=/Users/dannydasilva/Xr Demo/Main-Demo/Temp/Burst
---key-folder=/Applications/Unity/Hub/Editor/6000.1.8f1/PlaybackEngines/AndroidPlayer
---decode-folder=/Users/dannydasilva/Xr Demo/Main-Demo/Library/Burst
---output=/Users/dannydasilva/Xr Demo/Main-Demo/Temp/BurstOutput/tempburstlibs/arm64-v8a/lib_burst_generated
+--generate-link-xml=Temp\burst.link.xml
+--temp-folder=C:\Users\helio\Documents\Unity-Demo-Quest\Temp\Burst
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.1.8f1/Editor/Data/PlaybackEngines/AndroidPlayer
+--decode-folder=C:\Users\helio\Documents\Unity-Demo-Quest\Library\Burst
+--output=C:\Users\helio\Documents\Unity-Demo-Quest\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Sentis.IParallelForBatchExtensions+ParallelForBatchJobStruct`1[[Unity.Sentis.CPUBackend+AbsIntJob, Unity.Sentis, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null]], Unity.Sentis, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Sentis.CPUBackend+AbsIntJob&, Unity.Sentis, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--77798d1c26f2e200479ba75881eef9ad
@@ -122,11 +122,11 @@ Library: /Users/dannydasilva/Xr Demo/Main-Demo/Temp/BurstOutput/tempburstlibs/ar
 --dump=Function
 --float-precision=Standard
 --target-framework=NetFramework
---generate-link-xml=Temp/burst.link.xml
---temp-folder=/Users/dannydasilva/Xr Demo/Main-Demo/Temp/Burst
---key-folder=/Applications/Unity/Hub/Editor/6000.1.8f1/PlaybackEngines/AndroidPlayer
---decode-folder=/Users/dannydasilva/Xr Demo/Main-Demo/Library/Burst
---output=/Users/dannydasilva/Xr Demo/Main-Demo/Temp/BurstOutput/tempburstlibs/arm64-v8a/lib_burst_generated
+--generate-link-xml=Temp\burst.link.xml
+--temp-folder=C:\Users\helio\Documents\Unity-Demo-Quest\Temp\Burst
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.1.8f1/Editor/Data/PlaybackEngines/AndroidPlayer
+--decode-folder=C:\Users\helio\Documents\Unity-Demo-Quest\Library\Burst
+--output=C:\Users\helio\Documents\Unity-Demo-Quest\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Sentis.CPUBackend+ConvJob, Unity.Sentis, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null::CanUseDepthwiseConvKernel(Unity.Sentis.CPUBackend+ConvJob*, Unity.Sentis, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null)--755cd7886e6fee1b7821306ad8fc35eb
@@ -138,11 +138,11 @@ Library: /Users/dannydasilva/Xr Demo/Main-Demo/Temp/BurstOutput/tempburstlibs/ar
 --dump=Function
 --float-precision=Standard
 --target-framework=NetFramework
---generate-link-xml=Temp/burst.link.xml
---temp-folder=/Users/dannydasilva/Xr Demo/Main-Demo/Temp/Burst
---key-folder=/Applications/Unity/Hub/Editor/6000.1.8f1/PlaybackEngines/AndroidPlayer
---decode-folder=/Users/dannydasilva/Xr Demo/Main-Demo/Library/Burst
---output=/Users/dannydasilva/Xr Demo/Main-Demo/Temp/BurstOutput/tempburstlibs/arm64-v8a/lib_burst_generated
+--generate-link-xml=Temp\burst.link.xml
+--temp-folder=C:\Users\helio\Documents\Unity-Demo-Quest\Temp\Burst
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.1.8f1/Editor/Data/PlaybackEngines/AndroidPlayer
+--decode-folder=C:\Users\helio\Documents\Unity-Demo-Quest\Library\Burst
+--output=C:\Users\helio\Documents\Unity-Demo-Quest\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobParallelForExtensions+ParallelForJobStruct`1[[Unity.Sentis.GPUPixelBurstJobs+IntBytesAsFloatJob, Unity.Sentis, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Sentis.GPUPixelBurstJobs+IntBytesAsFloatJob&, Unity.Sentis, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--5904069597df7915541578b7a99ed29c
@@ -170,11 +170,11 @@ Library: /Users/dannydasilva/Xr Demo/Main-Demo/Temp/BurstOutput/tempburstlibs/ar
 --float-precision=Standard
 --target-framework=NetFramework
 --float-mode=Fast
---generate-link-xml=Temp/burst.link.xml
---temp-folder=/Users/dannydasilva/Xr Demo/Main-Demo/Temp/Burst
---key-folder=/Applications/Unity/Hub/Editor/6000.1.8f1/PlaybackEngines/AndroidPlayer
---decode-folder=/Users/dannydasilva/Xr Demo/Main-Demo/Library/Burst
---output=/Users/dannydasilva/Xr Demo/Main-Demo/Temp/BurstOutput/tempburstlibs/arm64-v8a/lib_burst_generated
+--generate-link-xml=Temp\burst.link.xml
+--temp-folder=C:\Users\helio\Documents\Unity-Demo-Quest\Temp\Burst
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.1.8f1/Editor/Data/PlaybackEngines/AndroidPlayer
+--decode-folder=C:\Users\helio\Documents\Unity-Demo-Quest\Library\Burst
+--output=C:\Users\helio\Documents\Unity-Demo-Quest\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Sentis.IParallelForBatchExtensions+ParallelForBatchJobStruct`1[[Unity.Sentis.CPUBackend+NMSBitmaskJob, Unity.Sentis, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null]], Unity.Sentis, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Sentis.CPUBackend+NMSBitmaskJob&, Unity.Sentis, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--c91a6a5fd90a3f03ac8984384e7fcb14
@@ -240,11 +240,11 @@ Library: /Users/dannydasilva/Xr Demo/Main-Demo/Temp/BurstOutput/tempburstlibs/ar
 --float-precision=Low
 --target-framework=NetFramework
 --float-mode=Fast
---generate-link-xml=Temp/burst.link.xml
---temp-folder=/Users/dannydasilva/Xr Demo/Main-Demo/Temp/Burst
---key-folder=/Applications/Unity/Hub/Editor/6000.1.8f1/PlaybackEngines/AndroidPlayer
---decode-folder=/Users/dannydasilva/Xr Demo/Main-Demo/Library/Burst
---output=/Users/dannydasilva/Xr Demo/Main-Demo/Temp/BurstOutput/tempburstlibs/arm64-v8a/lib_burst_generated
+--generate-link-xml=Temp\burst.link.xml
+--temp-folder=C:\Users\helio\Documents\Unity-Demo-Quest\Temp\Burst
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.1.8f1/Editor/Data/PlaybackEngines/AndroidPlayer
+--decode-folder=C:\Users\helio\Documents\Unity-Demo-Quest\Library\Burst
+--output=C:\Users\helio\Documents\Unity-Demo-Quest\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobParallelForExtensions+ParallelForJobStruct`1[[Unity.Sentis.CPUBackend+GlobalAverageVariancePoolJob, Unity.Sentis, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Sentis.CPUBackend+GlobalAverageVariancePoolJob&, Unity.Sentis, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--2fe6427fc02ed9b0ef608dc8e4092b1e
@@ -256,11 +256,11 @@ Library: /Users/dannydasilva/Xr Demo/Main-Demo/Temp/BurstOutput/tempburstlibs/ar
 --dump=Function
 --float-precision=Standard
 --target-framework=NetFramework
---generate-link-xml=Temp/burst.link.xml
---temp-folder=/Users/dannydasilva/Xr Demo/Main-Demo/Temp/Burst
---key-folder=/Applications/Unity/Hub/Editor/6000.1.8f1/PlaybackEngines/AndroidPlayer
---decode-folder=/Users/dannydasilva/Xr Demo/Main-Demo/Library/Burst
---output=/Users/dannydasilva/Xr Demo/Main-Demo/Temp/BurstOutput/tempburstlibs/arm64-v8a/lib_burst_generated
+--generate-link-xml=Temp\burst.link.xml
+--temp-folder=C:\Users\helio\Documents\Unity-Demo-Quest\Temp\Burst
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.1.8f1/Editor/Data/PlaybackEngines/AndroidPlayer
+--decode-folder=C:\Users\helio\Documents\Unity-Demo-Quest\Library\Burst
+--output=C:\Users\helio\Documents\Unity-Demo-Quest\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10

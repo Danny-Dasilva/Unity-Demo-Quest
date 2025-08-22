@@ -3,57 +3,51 @@
     "m_SelectedProcess": {
         "deviceId": "2G0YC5ZH2F00HZ",
         "name": "com.UnityTechnologies.com.unity.template.urpblank",
-        "processId": 16811,
+        "processId": 7609,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownProcessesForSerialization": [
         {
             "deviceId": "2G0YC5ZH2F00HZ",
-            "name": "com.UnityTechnologies.com.unity.template.urpblank",
-            "processId": 24836,
-            "exited": true
-        },
-        {
-            "deviceId": "2G0YC5ZH2F00HZ",
-            "name": "com.UnityTechnologies.com.unity.template.urpblank",
-            "processId": 26104,
-            "exited": true
-        },
-        {
-            "deviceId": "2G0YC5ZH2F00HZ",
-            "name": "com.UnityTechnologies.com.unity.template.urpblank",
-            "processId": 28203,
-            "exited": true
-        },
-        {
-            "deviceId": "2G0YC5ZH2F00HZ",
-            "name": "com.UnityTechnologies.com.unity.template.urpblank",
-            "processId": 3914,
-            "exited": true
-        },
-        {
-            "deviceId": "2G0YC5ZH2F00HZ",
-            "name": "com.oculus.os.clearactivity",
-            "processId": 21851,
+            "name": "com.oculus.explore",
+            "processId": 6962,
             "exited": false
         },
         {
             "deviceId": "2G0YC5ZH2F00HZ",
             "name": "com.UnityTechnologies.com.unity.template.urpblank",
-            "processId": 11551,
+            "processId": 28486,
+            "exited": true
+        },
+        {
+            "deviceId": "2G0YC5ZH2F00HZ",
+            "name": "com.UnityTechnologies.com.unity.template.urpblank",
+            "processId": 29287,
+            "exited": true
+        },
+        {
+            "deviceId": "2G0YC5ZH2F00HZ",
+            "name": "com.UnityTechnologies.com.unity.template.urpblank",
+            "processId": 30075,
+            "exited": true
+        },
+        {
+            "deviceId": "2G0YC5ZH2F00HZ",
+            "name": "com.UnityTechnologies.com.unity.template.urpblank",
+            "processId": 2730,
+            "exited": true
+        },
+        {
+            "deviceId": "2G0YC5ZH2F00HZ",
+            "name": "com.UnityTechnologies.com.unity.template.urpblank",
+            "processId": 5057,
             "exited": false
         },
         {
             "deviceId": "2G0YC5ZH2F00HZ",
             "name": "com.UnityTechnologies.com.unity.template.urpblank",
-            "processId": 14222,
-            "exited": false
-        },
-        {
-            "deviceId": "2G0YC5ZH2F00HZ",
-            "name": "com.UnityTechnologies.com.unity.template.urpblank",
-            "processId": 16811,
+            "processId": 7609,
             "exited": false
         }
     ],
@@ -111,7 +105,7 @@
         "AutoCapture": true
     },
     "m_FilterOptions": {
-        "m_Filter": "GeminiVoiceToggle",
+        "m_Filter": "SimplePartHighlighter",
         "m_UseRegularExpressions": false,
         "m_MatchCase": false
     },
